@@ -1,0 +1,9 @@
+.brands{
+}
+.brands__list{
+    display: flex;
+    column-gap: 120px;
+    align-items: center;
+    justify-content: center;
+    mix-blend-mode: multiply;
+}
